@@ -2,16 +2,16 @@
 
 # Datasets
 
-* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,144 | 🐛 136 | 🌐 JavaScript | 📅 2026-06-17 - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-* [MOSS](https://github.com/OpenLMLab/MOSS#%E6%95%B0%E6%8D%AE) ⭐ 12,214 | 🐛 243 | 🌐 Python | 📅 2026-05-27 - MOSS训练数据
+* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,150 | 🐛 136 | 🌐 JavaScript | 📅 2026-06-17 - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* [MOSS](https://github.com/OpenLMLab/MOSS#%E6%95%B0%E6%8D%AE) ⭐ 12,214 | 🐛 242 | 🌐 Python | 📅 2026-05-27 - MOSS训练数据
 * [BELLE](https://github.com/LianjiaTech/BELLE/tree/main/data/10M) ⭐ 8,278 | 🐛 106 | 🌐 HTML | 📅 2024-10-16 - 10M中文数据集
 * [MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集](https://github.com/esbatmop/MNBVC) ⭐ 4,262 | 🐛 21 | 📅 2026-08-15 - 对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
 * [超大规模中文语料集](https://github.com/esbatmop/MNBVC) ⭐ 4,262 | 🐛 21 | 📅 2026-08-15: 超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
 * [中文公开聊天语料库](https://github.com/codemayq/chinese-chatbot-corpus) ⭐ 4,195 | 🐛 2 | 🌐 Python | 📅 2024-04-23
 * [News Commentary v13](https://github.com/dbiir/UER-py/wiki/%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE) ⭐ 3,112 | 🐛 136 | 🌐 Python | 📅 2024-05-09 - News Commentary v13包括平行语料
 * [pretrain\_zh](https://github.com/TigerResearch/TigerBot#%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%E9%9B%86) ⭐ 2,259 | 🐛 45 | 🌐 Python | 📅 2024-12-28 - 中文开源预训练集 - 55G，包含中文书籍、中文互联网、中文百科
-* [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,751 | 🐛 6 | 🌐 Python | 📅 2023-08-18
-* [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books) ⭐ 1,379 | 🐛 7 | 📅 2023-09-27
+* [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,752 | 🐛 6 | 🌐 Python | 📅 2023-08-18
+* [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books) ⭐ 1,380 | 🐛 7 | 📅 2023-09-27
 * [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020/) ⭐ 1,018 | 🐛 10 | 📅 2026-02-06 - 通过对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料
 * [Chinese Scientific Literature Dataset](https://github.com/ydli-ai/CSL) ⭐ 674 | 🐛 12 | 🌐 Python | 📅 2023-06-19 - A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 * [\[COLING 2022\] CSL](https://github.com/ydli-ai/CSL) ⭐ 674 | 🐛 12 | 🌐 Python | 📅 2023-06-19: A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
@@ -30,12 +30,12 @@ Topics
 | Model     | Author                          | Repo/Chkpt                                                                                                         | Paper                                         |
 | --------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
 | 鹏程.盘古α    | Huawei                          | [Github](https://github.com/huawei-noah/Pretrained-Language-Model) ⭐ 3,164 \| 🐛 109 \| 🌐 Python \| 📅 2024-01-22 | [Paper](https://arxiv.org/pdf/2104.12369.pdf) |
-| MOSS      | FDU                             | [Github](https://github.com/OpenLMLab/MOSS) ⭐ 12,214 \| 🐛 243 \| 🌐 Python \| 📅 2026-05-27                       |                                               |
+| MOSS      | FDU                             | [Github](https://github.com/OpenLMLab/MOSS) ⭐ 12,214 \| 🐛 242 \| 🌐 Python \| 📅 2026-05-27                       |                                               |
 | TigerBot  | TigerResearch                   | [Github](https://github.com/TigerResearch/TigerBot) ⭐ 2,259 \| 🐛 45 \| 🌐 Python \| 📅 2024-12-28                 |                                               |
-| Qwen      | Alibaba Cloud                   | [Github](https://github.com/QwenLM/Qwen) ⭐ 21,598 \| 🐛 44 \| 🌐 Python \| 📅 2026-03-05                           |                                               |
-| Baichuan2 | Baichuan Intelligent Technology | [Github](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,084 \| 🐛 282 \| 🌐 Python \| 📅 2024-11-08                |                                               |
+| Qwen      | Alibaba Cloud                   | [Github](https://github.com/QwenLM/Qwen) ⭐ 21,601 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05                           |                                               |
+| Baichuan2 | Baichuan Intelligent Technology | [Github](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,084 \| 🐛 281 \| 🌐 Python \| 📅 2024-11-08                |                                               |
 | ChatGLM3  | THUDM                           | [Github](https://github.com/THUDM/ChatGLM3) ⭐ 13,660 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13                        |                                               |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
