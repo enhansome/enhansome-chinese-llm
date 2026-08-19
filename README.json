@@ -1,8 +1,226 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Topics",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chinese-poetry",
+          "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67186968,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T01:56:08Z",
+            "owner": "chinese-poetry",
+            "repo": "chinese-poetry",
+            "stars": 53175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOSS",
+          "description": "MOSS训练数据",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628296906,
+            "language": "Python",
+            "last_commit": "2026-05-27T13:16:14Z",
+            "owner": "OpenMOSS",
+            "repo": "MOSS",
+            "stars": 12218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BELLE",
+          "description": "10M中文数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615256902,
+            "language": "HTML",
+            "last_commit": "2024-10-16T11:38:59Z",
+            "owner": "LianjiaTech",
+            "repo": "BELLE",
+            "stars": 8278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集",
+          "description": "对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583824526,
+            "language": null,
+            "last_commit": "2026-08-15T11:52:11Z",
+            "owner": "esbatmop",
+            "repo": "MNBVC",
+            "stars": 4265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "超大规模中文语料集",
+          "description": "超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583824526,
+            "language": null,
+            "last_commit": "2026-08-15T11:52:11Z",
+            "owner": "esbatmop",
+            "repo": "MNBVC",
+            "stars": 4265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中文公开聊天语料库",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156045572,
+            "language": "Python",
+            "last_commit": "2024-04-23T03:30:29Z",
+            "owner": "codemayq",
+            "repo": "chinese-chatbot-corpus",
+            "stars": 4195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "News Commentary v13",
+          "description": "News Commentary v13包括平行语料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180572200,
+            "language": "Python",
+            "last_commit": "2024-05-09T11:12:55Z",
+            "owner": "dbiir",
+            "repo": "UER-py",
+            "stars": 3112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pretrain_zh",
+          "description": "中文开源预训练集 - 55G，包含中文书籍、中文互联网、中文百科",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639700127,
+            "language": "Python",
+            "last_commit": "2024-12-28T06:07:56Z",
+            "owner": "TigerResearch",
+            "repo": "TigerBot",
+            "stars": 2259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中文医疗问答数据集",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226781922,
+            "language": "Python",
+            "last_commit": "2023-08-18T05:34:28Z",
+            "owner": "Toyhom",
+            "repo": "Chinese-medical-dialogue-data",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中医药古籍文本",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123113611,
+            "language": null,
+            "last_commit": "2023-09-27T12:58:32Z",
+            "owner": "xiaopangxia",
+            "repo": "TCM-Ancient-Books",
+            "stars": 1382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLUECorpus2020",
+          "description": "通过对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236152498,
+            "language": null,
+            "last_commit": "2026-02-06T11:43:34Z",
+            "owner": "CLUEbenchmark",
+            "repo": "CLUECorpus2020",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chinese Scientific Literature Dataset",
+          "description": "A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221626752,
+            "language": "Python",
+            "last_commit": "2023-06-19T07:24:00Z",
+            "owner": "ydli-ai",
+            "repo": "CSL",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[COLING 2022] CSL",
+          "description": "A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221626752,
+            "language": "Python",
+            "last_commit": "2023-06-19T07:24:00Z",
+            "owner": "ydli-ai",
+            "repo": "CSL",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chinese book",
+          "description": "中文图书数据集/数据挖掘/自然语言处理/中国图书分类法/图书情报学/数据挖掘/文本分类/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255011116,
+            "language": null,
+            "last_commit": "2025-03-04T08:05:42Z",
+            "owner": "JiangYanting",
+            "repo": "Chinese_book_dataset",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Datasets"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-19T03:53:48.391Z",
+    "last_updated": "2026-08-19T12:20:19.553Z",
     "original_repository": "zhenlohuang/awesome-chinese-llm",
+    "original_repository_id": 634884525,
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
     "enhanced_repository": "enhansome/enhansome-chinese-llm",
     "enhanced_repository_description": null,
