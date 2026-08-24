@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53214
+            "stars": 53223
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12223
+            "stars": 12225
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-04-23T03:30:29Z",
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4193
+            "stars": 4194
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-05-09T11:12:55Z",
             "owner": "dbiir",
             "repo": "UER-py",
-            "stars": 3111
+            "stars": 3112
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1753
+            "stars": 1754
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-27T12:58:32Z",
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1388
+            "stars": 1390
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:57:15.648Z",
+    "last_updated": "2026-08-24T04:01:33.169Z",
     "original_repository": "zhenlohuang/awesome-chinese-llm",
     "original_repository_id": 634884525,
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
