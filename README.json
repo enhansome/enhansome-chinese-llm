@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53223
+            "stars": 53228
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-15T11:52:11Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4266
+            "stars": 4267
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T11:52:11Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4266
+            "stars": 4267
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-27T12:58:32Z",
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1390
+            "stars": 1391
           }
         },
         {
@@ -215,10 +215,106 @@
         }
       ],
       "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "鹏程.盘古α",
+          "description": "Huawei Github Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225393289,
+            "language": "Python",
+            "last_commit": "2024-01-22T01:11:22Z",
+            "owner": "huawei-noah",
+            "repo": "Pretrained-Language-Model",
+            "stars": 3165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOSS",
+          "description": "FDU Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628296906,
+            "language": "Python",
+            "last_commit": "2026-05-27T13:16:14Z",
+            "owner": "OpenMOSS",
+            "repo": "MOSS",
+            "stars": 12225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TigerBot",
+          "description": "TigerResearch Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639700127,
+            "language": "Python",
+            "last_commit": "2024-12-28T06:07:56Z",
+            "owner": "TigerResearch",
+            "repo": "TigerBot",
+            "stars": 2259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen",
+          "description": "Alibaba Cloud Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674075444,
+            "language": "Python",
+            "last_commit": "2026-03-05T13:55:17Z",
+            "owner": "QwenLM",
+            "repo": "Qwen",
+            "stars": 21638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baichuan2",
+          "description": "Baichuan Intelligent Technology Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685444668,
+            "language": "Python",
+            "last_commit": "2024-11-08T08:31:29Z",
+            "owner": "baichuan-inc",
+            "repo": "Baichuan2",
+            "stars": 4084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGLM3",
+          "description": "THUDM Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710159073,
+            "language": "Python",
+            "last_commit": "2025-01-13T06:55:26Z",
+            "owner": "zai-org",
+            "repo": "ChatGLM3",
+            "stars": 13657
+          }
+        }
+      ],
+      "title": "Pre-trained LLM"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:33.169Z",
+    "last_updated": "2026-08-24T14:35:23.037Z",
     "original_repository": "zhenlohuang/awesome-chinese-llm",
     "original_repository_id": 634884525,
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
