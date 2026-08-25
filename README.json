@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53228
+            "stars": 53232
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-27T12:58:32Z",
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1391
+            "stars": 1393
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21638
+            "stars": 21640
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13657
+            "stars": 13656
           }
         }
       ],
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:23.037Z",
+    "last_updated": "2026-08-25T03:55:21.972Z",
     "original_repository": "zhenlohuang/awesome-chinese-llm",
     "original_repository_id": 634884525,
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
