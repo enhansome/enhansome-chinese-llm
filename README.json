@@ -15,7 +15,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53251
+            "stars": 53268
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12229
+            "stars": 12231
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-15T11:52:11Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4267
+            "stars": 4268
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T11:52:11Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4267
+            "stars": 4268
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1755
+            "stars": 1756
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-09-27T12:58:32Z",
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1399
+            "stars": 1401
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2023-06-19T07:24:00Z",
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2023-06-19T07:24:00Z",
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-01-22T01:11:22Z",
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3165
+            "stars": 3166
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12229
+            "stars": 12231
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21646
+            "stars": 21658
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13655
+            "stars": 13656
           }
         }
       ],
@@ -314,9 +314,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:21.374Z",
-    "original_repository": "zhenlohuang/awesome-chinese-llm",
-    "original_repository_id": 634884525,
+    "last_updated": "2026-08-27T11:28:05.617Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 634884525,
+      "language": null,
+      "last_commit": "2024-06-10T03:40:34Z",
+      "owner": "zhenlohuang",
+      "repo": "awesome-chinese-llm",
+      "stars": 166
+    },
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
     "enhanced_repository": "enhansome/enhansome-chinese-llm",
     "enhanced_repository_description": null,
