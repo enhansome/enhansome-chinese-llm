@@ -15,8 +15,9 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53273
-          }
+            "stars": 53283
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12231
-          }
+            "stars": 12234
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "LianjiaTech",
             "repo": "BELLE",
             "stars": 8275
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 583824526,
             "language": null,
-            "last_commit": "2026-08-15T11:52:11Z",
+            "last_commit": "2026-08-28T15:06:54Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
             "stars": 4268
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 583824526,
             "language": null,
-            "last_commit": "2026-08-15T11:52:11Z",
+            "last_commit": "2026-08-28T15:06:54Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
             "stars": 4268
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
             "stars": 4195
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dbiir",
             "repo": "UER-py",
             "stars": 3112
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "TigerResearch",
             "repo": "TigerBot",
             "stars": 2259
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1756
-          }
+            "stars": 1758
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2023-09-27T12:58:32Z",
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1401
-          }
+            "stars": 1403
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
             "stars": 1018
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "ydli-ai",
             "repo": "CSL",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "ydli-ai",
             "repo": "CSL",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "JiangYanting",
             "repo": "Chinese_book_dataset",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         }
       ],
       "title": "Datasets"
@@ -232,7 +246,8 @@
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
             "stars": 3166
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -246,8 +261,9 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12231
-          }
+            "stars": 12234
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "TigerResearch",
             "repo": "TigerBot",
             "stars": 2259
-          }
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21659
-          }
+            "stars": 21671
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2024-11-08T08:31:29Z",
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4084
-          }
+            "stars": 4083
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         },
         {
           "node_type": "item",
@@ -306,15 +325,16 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13656
-          }
+            "stars": 13657
+          },
+          "first_seen": "2026-08-28T15:15:36.705Z"
         }
       ],
       "title": "Pre-trained LLM"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:34.327Z",
+    "last_updated": "2026-08-28T15:15:36.705Z",
     "original_repository_info": {
       "archived": false,
       "id": 634884525,
