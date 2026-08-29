@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+            "homepage": "https://awesome-poetry.top/",
             "id": 67186968,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T01:56:08Z",
+            "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53283
+            "stars": 53285,
+            "topics": [
+              "chinese",
+              "chinese-poetry",
+              "ci",
+              "json",
+              "poetry",
+              "tangshi"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T13:16:14Z",
+            "open_issues": 242,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12234
+            "stars": 12234,
+            "topics": [
+              "chatgpt",
+              "deep-learning",
+              "dialogue-systems",
+              "large-language-models",
+              "natural-language-processing",
+              "text-generation"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -42,12 +66,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）",
+            "homepage": null,
             "id": 615256902,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-16T11:38:59Z",
+            "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8275
+            "stars": 8275,
+            "topics": [
+              "bloom",
+              "chinese-nlp",
+              "gpt-evaluation",
+              "gpt-q",
+              "instruct-finetune",
+              "instruct-gpt",
+              "instruction-set",
+              "llama",
+              "lora",
+              "open-models"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -58,12 +98,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+            "homepage": null,
             "id": 583824526,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T15:06:54Z",
+            "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4268
+            "stars": 4270,
+            "topics": [
+              "chinese",
+              "chinese-language",
+              "chinese-nlp",
+              "chinese-simplified",
+              "corpus-data",
+              "nlp",
+              "nlp-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -74,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+            "homepage": null,
             "id": 583824526,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T15:06:54Z",
+            "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4268
+            "stars": 4270,
+            "topics": [
+              "chinese",
+              "chinese-language",
+              "chinese-nlp",
+              "chinese-simplified",
+              "corpus-data",
+              "nlp",
+              "nlp-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -90,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文公开聊天语料库",
+            "homepage": null,
             "id": 156045572,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-23T03:30:29Z",
+            "open_issues": 2,
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4195
+            "stars": 4195,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -106,12 +177,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo",
+            "homepage": "https://github.com/dbiir/UER-py/wiki",
             "id": 180572200,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-09T11:12:55Z",
+            "open_issues": 136,
             "owner": "dbiir",
             "repo": "UER-py",
-            "stars": 3112
+            "stars": 3112,
+            "topics": [
+              "albert",
+              "bart",
+              "bert",
+              "chinese",
+              "classification",
+              "clue",
+              "elmo",
+              "fine-tuning",
+              "gpt",
+              "gpt-2",
+              "model-zoo",
+              "natural-language-processing",
+              "ner",
+              "pegasus",
+              "pre-training",
+              "pytorch",
+              "roberta",
+              "t5",
+              "unilm",
+              "xlm-roberta"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -122,12 +219,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TigerBot: A multi-language multi-task LLM",
+            "homepage": "https://www.tigerbot.com",
             "id": 639700127,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-28T06:07:56Z",
+            "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2259
+            "stars": 2259,
+            "topics": [
+              "chinese",
+              "data",
+              "llama2",
+              "llm",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -138,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese medical dialogue data 中文医疗对话数据集",
+            "homepage": null,
             "id": 226781922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-18T05:34:28Z",
+            "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1758
+            "stars": 1759,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -154,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中医药古籍文本，近700项",
+            "homepage": null,
             "id": 123113611,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-27T12:58:32Z",
+            "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1403
+            "stars": 1403,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -170,12 +288,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large-scale Pre-training Corpus for Chinese 100G 中文预训练语料 ",
+            "homepage": "https://arxiv.org/abs/2003.01355",
             "id": 236152498,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-06T11:43:34Z",
+            "open_issues": 10,
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
-            "stars": 1018
+            "stars": 1018,
+            "topics": [
+              "albert",
+              "bert",
+              "chinese",
+              "chinese-corpus",
+              "corpus",
+              "datasets",
+              "nlp",
+              "pretrain",
+              "roberta"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -186,12 +319,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLING 2022] CSL: A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集",
+            "homepage": null,
             "id": 221626752,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-19T07:24:00Z",
+            "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "chinese-nlp",
+              "dataset",
+              "machine-learning",
+              "scientific-publications"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -202,12 +345,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLING 2022] CSL: A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集",
+            "homepage": null,
             "id": 221626752,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-19T07:24:00Z",
+            "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "chinese-nlp",
+              "dataset",
+              "machine-learning",
+              "scientific-publications"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -218,12 +371,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文图书数据集/数据挖掘/自然语言处理/中国图书分类法/图书情报学/数据挖掘/文本分类/",
+            "homepage": null,
             "id": 255011116,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-04T08:05:42Z",
+            "open_issues": 0,
             "owner": "JiangYanting",
             "repo": "Chinese_book_dataset",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "data-mining",
+              "dataset",
+              "informatics",
+              "library-management",
+              "machine-learning",
+              "natural-language-processing",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         }
@@ -240,12 +406,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+            "homepage": null,
             "id": 225393289,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-22T01:11:22Z",
+            "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3166
+            "stars": 3166,
+            "topics": [
+              "knowledge-distillation",
+              "large-scale-distributed",
+              "model-compression",
+              "pretrained-models",
+              "quantization"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -256,12 +433,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T13:16:14Z",
+            "open_issues": 242,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12234
+            "stars": 12234,
+            "topics": [
+              "chatgpt",
+              "deep-learning",
+              "dialogue-systems",
+              "large-language-models",
+              "natural-language-processing",
+              "text-generation"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -272,12 +461,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TigerBot: A multi-language multi-task LLM",
+            "homepage": "https://www.tigerbot.com",
             "id": 639700127,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-28T06:07:56Z",
+            "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2259
+            "stars": 2259,
+            "topics": [
+              "chinese",
+              "data",
+              "llama2",
+              "llm",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -288,12 +488,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+            "homepage": null,
             "id": 674075444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21671
+            "stars": 21672,
+            "topics": [
+              "chinese",
+              "flash-attention",
+              "large-language-models",
+              "llm",
+              "natural-language-processing",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -304,12 +516,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of large language models developed by Baichuan Intelligent Technology",
+            "homepage": "https://huggingface.co/baichuan-inc",
             "id": 685444668,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-08T08:31:29Z",
+            "open_issues": 281,
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4083
+            "stars": 4083,
+            "topics": [
+              "artificial-intelligence",
+              "benchmark",
+              "ceval",
+              "chatgpt",
+              "chinese",
+              "gpt",
+              "gpt-4",
+              "huggingface",
+              "large-language-models",
+              "llama2",
+              "mmlu",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         },
@@ -320,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型",
+            "homepage": null,
             "id": 710159073,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-13T06:55:26Z",
+            "open_issues": 35,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13657
+            "stars": 13657,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
         }
@@ -334,15 +569,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:36.705Z",
+    "last_updated": "2026-08-29T04:52:13.746Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
+      "homepage": null,
       "id": 634884525,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-10T03:40:34Z",
+      "open_issues": 0,
       "owner": "zhenlohuang",
       "repo": "awesome-chinese-llm",
-      "stars": 166
+      "stars": 166,
+      "topics": [
+        "awesome-list",
+        "chinese",
+        "datasets",
+        "finetune",
+        "large-language-models",
+        "llm",
+        "nlp",
+        "pretrained-models"
+      ]
     },
     "original_repository_sha": "87f505b09c7c827be2f4db3984ef8138d7baea20",
     "enhanced_repository": "enhansome/enhansome-chinese-llm",
