@@ -2,7 +2,7 @@
 
 # Datasets
 
-* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,285 | 🐛 137 | 🌐 JavaScript | 📅 2026-06-17 - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,288 | 🐛 137 | 🌐 JavaScript | 📅 2026-06-17 - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 * [MOSS](https://github.com/OpenLMLab/MOSS#%E6%95%B0%E6%8D%AE) ⭐ 12,234 | 🐛 242 | 🌐 Python | 📅 2026-05-27 - MOSS训练数据
 * [BELLE](https://github.com/LianjiaTech/BELLE/tree/main/data/10M) ⭐ 8,275 | 🐛 106 | 🌐 HTML | 📅 2024-10-16 - 10M中文数据集
 * [MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集](https://github.com/esbatmop/MNBVC) ⭐ 4,270 | 🐛 22 | 📅 2026-08-28 - 对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
@@ -11,7 +11,7 @@
 * [News Commentary v13](https://github.com/dbiir/UER-py/wiki/%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE) ⭐ 3,112 | 🐛 136 | 🌐 Python | 📅 2024-05-09 - News Commentary v13包括平行语料
 * [pretrain\_zh](https://github.com/TigerResearch/TigerBot#%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%E9%9B%86) ⭐ 2,259 | 🐛 45 | 🌐 Python | 📅 2024-12-28 - 中文开源预训练集 - 55G，包含中文书籍、中文互联网、中文百科
 * [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,759 | 🐛 6 | 🌐 Python | 📅 2023-08-18
-* [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books) ⭐ 1,403 | 🐛 7 | 📅 2023-09-27
+* [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books) ⭐ 1,404 | 🐛 7 | 📅 2023-09-27
 * [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020/) ⭐ 1,018 | 🐛 10 | 📅 2026-02-06 - 通过对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料
 * [Chinese Scientific Literature Dataset](https://github.com/ydli-ai/CSL) ⭐ 675 | 🐛 12 | 🌐 Python | 📅 2023-06-19 - A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 * [\[COLING 2022\] CSL](https://github.com/ydli-ai/CSL) ⭐ 675 | 🐛 12 | 🌐 Python | 📅 2023-06-19: A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
