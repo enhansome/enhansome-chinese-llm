@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53316,
+            "stars": 53329,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -38,7 +38,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "description": "An open-source, tool-augmented conversational language model from Fudan University",
             "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
@@ -47,7 +47,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12238,
+            "stars": 12239,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8275,
+            "stars": 8276,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -107,7 +107,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -136,7 +136,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -433,7 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "description": "An open-source, tool-augmented conversational language model from Fudan University",
             "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
@@ -442,7 +442,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12238,
+            "stars": 12239,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 36,
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21685,
+            "stars": 21688,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:33:27.749Z",
+    "last_updated": "2026-09-02T07:50:34.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
