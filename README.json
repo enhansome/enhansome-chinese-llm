@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53332,
+            "stars": 53342,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -47,7 +47,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12239,
+            "stars": 12240,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8274,
+            "stars": 8273,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -107,7 +107,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -136,7 +136,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -228,7 +228,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2259,
+            "stars": 2260,
             "topics": [
               "chinese",
               "data",
@@ -255,7 +255,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1761,
+            "stars": 1762,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1410,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
-            "stars": 1018,
+            "stars": 1019,
             "topics": [
               "albert",
               "bert",
@@ -328,7 +328,7 @@
             "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "chinese-nlp",
               "dataset",
@@ -354,7 +354,7 @@
             "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "chinese-nlp",
               "dataset",
@@ -442,7 +442,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12239,
+            "stars": 12240,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -470,7 +470,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2259,
+            "stars": 2260,
             "topics": [
               "chinese",
               "data",
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 39,
+            "open_issues": 42,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21687,
+            "stars": 21694,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:58:23.598Z",
+    "last_updated": "2026-09-04T07:54:38.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
