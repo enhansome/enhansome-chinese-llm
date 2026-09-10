@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53385,
+            "stars": 53393,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8271,
+            "stars": 8269,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -107,7 +107,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4273,
+            "stars": 4272,
             "topics": [
               "chinese",
               "chinese-language",
@@ -136,7 +136,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4273,
+            "stars": 4272,
             "topics": [
               "chinese",
               "chinese-language",
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1420,
+            "stars": 1421,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "albert",
               "bert",
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21703,
+            "stars": 21709,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:03:46.683Z",
+    "last_updated": "2026-09-10T08:03:06.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
