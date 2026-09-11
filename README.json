@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53393,
+            "stars": 53403,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -107,7 +107,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -136,7 +136,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "chinese",
               "chinese-language",
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1421,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -328,7 +328,7 @@
             "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 675,
+            "stars": 674,
             "topics": [
               "chinese-nlp",
               "dataset",
@@ -354,7 +354,7 @@
             "open_issues": 12,
             "owner": "ydli-ai",
             "repo": "CSL",
-            "stars": 675,
+            "stars": 674,
             "topics": [
               "chinese-nlp",
               "dataset",
@@ -497,7 +497,7 @@
             "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21709,
+            "stars": 21711,
             "topics": [
               "chinese",
               "flash-attention",
@@ -559,7 +559,7 @@
             "open_issues": 35,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13657,
+            "stars": 13656,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:03:06.156Z",
+    "last_updated": "2026-09-11T07:58:41.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
