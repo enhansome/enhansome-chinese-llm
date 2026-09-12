@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53403,
+            "stars": 53407,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -47,7 +47,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12242,
+            "stars": 12243,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8269,
+            "stars": 8271,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -165,7 +165,7 @@
             "open_issues": 2,
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4196,
+            "stars": 4197,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -255,7 +255,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1763,
+            "stars": 1764,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1423,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -442,7 +442,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12242,
+            "stars": 12243,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -497,7 +497,7 @@
             "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21711,
+            "stars": 21709,
             "topics": [
               "chinese",
               "flash-attention",
@@ -525,7 +525,7 @@
             "open_issues": 281,
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4083,
+            "stars": 4084,
             "topics": [
               "artificial-intelligence",
               "benchmark",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:58:41.048Z",
+    "last_updated": "2026-09-12T07:51:31.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
