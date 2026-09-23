@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53472,
+            "stars": 53474,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -228,7 +228,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2262,
+            "stars": 2263,
             "topics": [
               "chinese",
               "data",
@@ -255,7 +255,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1767,
+            "stars": 1769,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1447,
+            "stars": 1450,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -470,7 +470,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2262,
+            "stars": 2263,
             "topics": [
               "chinese",
               "data",
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21813,
+            "stars": 21827,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:27:17.233Z",
+    "last_updated": "2026-09-23T08:29:13.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
