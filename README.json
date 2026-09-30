@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53513,
+            "stars": 53519,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8269,
+            "stars": 8268,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -103,11 +103,11 @@
             "id": 583824526,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-13T06:01:18Z",
+            "last_commit": "2026-09-30T07:23:59Z",
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "chinese",
               "chinese-language",
@@ -132,11 +132,11 @@
             "id": 583824526,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-13T06:01:18Z",
+            "last_commit": "2026-09-30T07:23:59Z",
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "chinese",
               "chinese-language",
@@ -228,7 +228,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2263,
+            "stars": 2262,
             "topics": [
               "chinese",
               "data",
@@ -255,7 +255,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1771,
+            "stars": 1772,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -276,7 +276,7 @@
             "open_issues": 7,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1464,
+            "stars": 1466,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -470,7 +470,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2263,
+            "stars": 2262,
             "topics": [
               "chinese",
               "data",
@@ -497,7 +497,7 @@
             "open_issues": 45,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21875,
+            "stars": 21880,
             "topics": [
               "chinese",
               "flash-attention",
@@ -559,7 +559,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13646,
+            "stars": 13645,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:43:11.231Z",
+    "last_updated": "2026-09-30T09:35:02.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
