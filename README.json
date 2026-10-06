@@ -273,7 +273,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-09-27T12:58:32Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
             "stars": 1475,
@@ -497,7 +497,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21891,
+            "stars": 21890,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:06:14.311Z",
+    "last_updated": "2026-10-06T10:54:17.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
