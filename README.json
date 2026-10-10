@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53614,
+            "stars": 53637,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -276,7 +276,7 @@
             "open_issues": 8,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1481,
+            "stars": 1488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -415,7 +415,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3166,
+            "stars": 3165,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -497,7 +497,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21894,
+            "stars": 21897,
             "topics": [
               "chinese",
               "flash-attention",
@@ -525,7 +525,7 @@
             "open_issues": 282,
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4082,
+            "stars": 4080,
             "topics": [
               "artificial-intelligence",
               "benchmark",
@@ -559,7 +559,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13639,
+            "stars": 13638,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:23:26.906Z",
+    "last_updated": "2026-10-10T09:43:06.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
