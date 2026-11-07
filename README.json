@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 54077,
+            "stars": 54084,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8262,
+            "stars": 8261,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22002,
+            "stars": 22011,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:42:53.445Z",
+    "last_updated": "2026-11-07T09:55:35.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
