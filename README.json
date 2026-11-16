@@ -19,7 +19,7 @@
             "open_issues": 141,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 54399,
+            "stars": 54421,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -47,7 +47,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12366,
+            "stars": 12371,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -107,7 +107,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "chinese",
               "chinese-language",
@@ -136,7 +136,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "chinese",
               "chinese-language",
@@ -276,7 +276,7 @@
             "open_issues": 8,
             "owner": "xiaopangxia",
             "repo": "TCM-Ancient-Books",
-            "stars": 1544,
+            "stars": 1546,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:36.705Z"
@@ -297,7 +297,7 @@
             "open_issues": 10,
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
-            "stars": 1025,
+            "stars": 1024,
             "topics": [
               "albert",
               "bert",
@@ -415,7 +415,7 @@
             "open_issues": 108,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3170,
+            "stars": 3168,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -442,7 +442,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12366,
+            "stars": 12371,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -497,7 +497,7 @@
             "open_issues": 40,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22032,
+            "stars": 22041,
             "topics": [
               "chinese",
               "flash-attention",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T10:41:38.318Z",
+    "last_updated": "2026-11-16T10:58:33.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chinese LLM: A curated list of Chinese Large Language Model 中文大语言模型数据集和模型资料汇总",
